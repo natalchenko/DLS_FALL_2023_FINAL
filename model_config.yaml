@@ -1,0 +1,6 @@
+names:
+- number plate
+path: ../DATASET
+test: IMAGES/TEST
+train: IMAGES/TRAIN
+val: IMAGES/VALID
